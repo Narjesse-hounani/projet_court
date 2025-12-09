@@ -2,7 +2,7 @@
 
 Ce projet utilise **Biopython** et l’outil externe **mkdssp** pour calculer la surface accessible (ASA) des résidus d’une protéine à partir de son fichier PDB.
 ---
-## 🚀 Installation
+##  Installation
 ```bash
 # Cloner/copier le projet et entrer dans le dossier
 cd projetcourt
